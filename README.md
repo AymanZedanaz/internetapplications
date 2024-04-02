@@ -1,2 +1,2 @@
-﻿                                                                         # internetapplications
-                                                                                                 مشروع مادة تطبيقات الانترنت
+# internetapplications
+مشروع مادة تطبيقات الانترنت
